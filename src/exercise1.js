@@ -1,3 +1,4 @@
 exports.run = function(input) {
-  console.log("Exercise #1");
+    var result = input.toUpperCase();
+    return result;
 };
